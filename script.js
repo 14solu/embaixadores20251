@@ -39,7 +39,7 @@ const perguntas = [
             "Realizar tarefas manuais como pintar uma parede.",
             " Prever padrões de comportamento com base em grandes volumes de dados. "
                     ]
-    }
+    },
 ];
 
 let atual = 0;
